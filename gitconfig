@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yuliia.topalova@gmail.com
+	name = Yuliia Topalova
